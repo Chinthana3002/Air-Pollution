@@ -1,0 +1,17 @@
+//Firstly I created a required File.
+step 1:
+The required files for the Air Pollution Awareness webpage have been created successfully.
+index.html
+styles.css
+script.js
+data.json
+
+Summary
+
+HTML: Defines the structure and content of the webpage.
+
+CSS: Enhances the appearance and layout of the page.
+
+JavaScript: Adds functionality for user interaction (e.g., checking AQI).
+
+JSON: Stores data for future integration with JavaScript to dynamically provide AQI information.
